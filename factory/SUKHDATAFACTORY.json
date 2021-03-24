@@ -1,0 +1,9 @@
+{
+	"name": "SUKHDATAFACTORY",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3cb957a9-874e-44d4-8dfa-91ac7396078f",
+		"tenantId": "b7fd8b47-f26e-4be1-89f3-b680457d8fbe"
+	}
+}
